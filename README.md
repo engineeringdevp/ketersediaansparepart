@@ -1,2 +1,0 @@
-# ketersediaansparepart
-monitoring sparepart
